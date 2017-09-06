@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+  Author:  Sparrow
+  Purpose: timer on all the os which can be stopped by KeyBoardInterrupt
+  Created: 2017-8-31
+"""
 import time
 import datetime
 import sys

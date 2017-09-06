@@ -1,4 +1,9 @@
-# coding: utf-8
+# -*- coding: utf-8 -*-
+"""
+  Author:  Sparrow
+  Purpose: timer on all the os which is created as a new thread
+  Created: 2017-8-31
+"""
 import threading
 import time
 import sys
